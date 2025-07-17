@@ -17,5 +17,6 @@ https://github.com/Gariloz/HideFrame
 
 ---
 
-Author: Enhanced Version
+Original author: Gariloz
+
 Modifications and support: Gariloz 
