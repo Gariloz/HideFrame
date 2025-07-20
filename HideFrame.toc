@@ -1,0 +1,22 @@
+## Interface: 30300
+## Title: HideFrame
+## Version: 2.0
+## Notes: Removes dragon textures and faction icons from target, focus, and player frames with configurable Ace3 interface.
+## Notes-ruRU: Скрывает текстуры драконов и значки фракций с фреймов цели, фокуса и игрока с настраиваемым интерфейсом Ace3.
+## Author: Gariloz
+## SavedVariables: HideFrameDB
+
+# Libraries
+Libs\LibStub\LibStub.xml
+Libs\Ace3\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Libs\Ace3\AceAddon-3.0\AceAddon-3.0.xml
+Libs\Ace3\AceConsole-3.0\AceConsole-3.0.xml
+Libs\Ace3\AceEvent-3.0\AceEvent-3.0.xml
+Libs\Ace3\AceDB-3.0\AceDB-3.0.xml
+Libs\Ace3\AceGUI-3.0\AceGUI-3.0.xml
+Libs\Ace3\AceConfig-3.0\AceConfig-3.0.xml
+Libs\Ace3\AceConfigDialog-3.0\AceConfigDialog-3.0.xml
+
+# Addon files
+HideFrame_Locale.lua
+HideFrame.lua
